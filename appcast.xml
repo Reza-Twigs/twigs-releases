@@ -12,7 +12,7 @@
       <sparkle:version>0.1.9</sparkle:version>
       <sparkle:shortVersionString>0.1.9</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Twigs 0.1.9.</li></ul>]]></description>
+      <description><![CDATA[<ul><li>Visual conversations now preserve context across chat, voice, highlights, and actions.</li><li>A new in-app Guide demonstrates Chat, Voice, Highlight, and Spatial Context with focused video walkthroughs.</li></ul>]]></description>
       <enclosure url="https://github.com/reza-hause-lab/twigs-releases/releases/download/v0.1.9/Twigs.dmg" type="application/octet-stream" sparkle:edSignature="MUTKtCqrMl3rb6UMrqcpShbHy8VPdFtjqLExHdYba6uu8+bW0xSsDL6eycj0VUC5bmZvvsz9nlCFg0vYwV0mAg==" length="52548237" />
     </item>
     <item>
